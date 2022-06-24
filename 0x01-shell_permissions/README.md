@@ -1,1 +1,1 @@
-script that creates an empty file called hello
+script that prints all the groups the current user is part of.
