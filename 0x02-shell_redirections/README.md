@@ -1,1 +1,1 @@
-script that displays the 10 newest files in the current directory
+Display the content of /etc/passwd and /etc/hosts
